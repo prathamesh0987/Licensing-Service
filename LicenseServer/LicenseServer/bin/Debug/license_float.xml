@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<license id="29b1a173-8c5c-4ec6-a6bd-319c6bc21c3d" expiration="2024-04-07T00:00:00.0000000" type="Floating" email="prathamesh@svrrobotics.com" mac="a9d32b5c-4727-4eea-a01e-e92bfec530f1" limit="1">
+  <name>Prathamesh</name>
+  <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+    <SignedInfo>
+      <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+      <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+      <Reference URI="">
+        <Transforms>
+          <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+        </Transforms>
+        <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <DigestValue>xfSduDtCr0SgcBrKnKFcFYF6f6A=</DigestValue>
+      </Reference>
+    </SignedInfo>
+    <SignatureValue>UykFy0Cd10tAF9gCo4uVrehkBaN2lWmdSzDUwBXbjz9zAEhqB9uZOX+aaJ/iwBtYzKK2AvhVrXTcIBVwz13yYr8S/CF6/GjGa0i/o0gUemzFSL8b85b1EEAn7gcEEAewm2V21JSqWZkbBVevwc6NecUdMlsH/itLWu/O6Ab/pUg=</SignatureValue>
+  </Signature>
+</license>
